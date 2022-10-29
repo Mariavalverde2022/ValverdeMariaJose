@@ -43,8 +43,8 @@ include("marco-right.php");
     
 
 
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación  aprendiendo lo que me enseñan los profesores con sus practicas y ser una programadora a futuro.</p> 
+                   <p  class="eys-parrafo">Hoy en día los maestros nos enseñan  sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para se  utiliza el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
