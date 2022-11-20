@@ -114,8 +114,7 @@ width:30%;
         <a href="index.php">Inicio</a>
         <a href="eys-capacitacion.php">Estudios</a>
         <a href="eys-asesoria-tecnica.php">Conocimientos Informaticos</a>
-        <a href="eys-investigacion.php">Investigación</a>
-        <a href="eys-desarrollo-web.php">Desarrollo Web</a>
+        <a href="eys-investigacion.php">Hobby</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
         </div>
     
